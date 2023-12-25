@@ -59,7 +59,8 @@ QR_Decomposition(A)
 
 ## Output
 ```
-![qr](https://github.com/RenukaRamesh/QRdecomposition/assets/145742979/bf5c59a0-c520-436b-a8f5-67721ab9b9ae)
+![qr](https://github.com/RenukaRamesh/QRdecomposition/assets/145742979/22ffb107-a0b3-4ef5-a7bf-20e79fb10f36)
+
 
 ```
 
